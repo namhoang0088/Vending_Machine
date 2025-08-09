@@ -85,7 +85,7 @@ Current stock of Item 2 is **10** (`SLit2=1010`).
 Payment is processed, and **2 units** of Item 2 are dispensed (`dropitem2=10`).  
 Stock of Item 2 decreases to **8** (`SLit2=1000`).  
 
-![Simulation PIC1](test/pic1.jpg)
+![Simulation PIC1](test/pic1.jfif)
 
 ---
 
@@ -97,7 +97,7 @@ Payment is processed, and **1 unit** of Item 4 is dispensed (`dropitem4=01`).
 Stock of Item 4 decreases to **9** (`SLit4=1001`).  
 Returned **15k** as change (`drop5=1`, `drop10=1`).  
 
-![Simulation PIC2](test/pic2.jpg)
+![Simulation PIC2](test/pic2.jfif)
 
 ---
 
@@ -109,4 +109,4 @@ Payment is processed, and **1 unit** of Item 1 is dispensed (`dropitem1=01`).
 Stock of Item 1 decreases to **9** (`SLit1=1001`).  
 Returned **10k** as change (`drop10=1`).  
 
-![Simulation PIC3](test/pic3.jpg)
+![Simulation PIC3](test/pic3.jfif)
